@@ -1,20 +1,49 @@
+Tile by Tile — Privacy Policy
 
-# Tile by Tile — Privacy Policy
+Last updated: November 10, 2026 · Publisher: South Copper
 
-Last updated: October 17, 2026 · Publisher: South Copper
+Tile by Tile ("the Game") is a puzzle game. This page explains what data the Game uses and why.
 
-Tile by Tile ("the Game") does not require an account and does not ask for your name, email or other contact details.
+No account
 
-**Data stored on your device:** Level progress, stars, lives, settings (sound, vibration, language) and levels you create in the editor are saved only on your device. They are deleted when you uninstall the Game.
+The Game does not ask for your name, email address or any other contact details.
 
-**Advertising (Google AdMob):** The Game shows ads through Google AdMob. To serve and measure ads, Google may collect and process device data such as the advertising ID, IP address, device model, operating system and ad interaction data. In the EEA, the UK and Switzerland, the Game asks for your consent (Google User Messaging Platform) before personalized ads are shown; you can reset your choice by clearing the app's data. You can also reset or delete your advertising ID in your device settings.
-- Google Privacy Policy: https://policies.google.com/privacy
-- How Google uses data from apps: https://policies.google.com/technologies/partner-sites
+Data stored on your device
 
-**No other tracking:** The Game does not use its own analytics and does not sell personal data.
+Your progress (best run, stars, score, lives), unlocked skins, purchases status and settings (sound, vibration, language, theme) are stored only on your device. They are deleted when you uninstall the Game.
 
-**Children:** The Game is not directed at children under 13 and does not knowingly collect their personal data.
+Anonymous gameplay data (optional)
 
-**Changes:** Updates to this policy will be posted on this page.
+With your permission, the Game sends anonymous gameplay data about each stage you play: stage number, result, number of moves, time per move, stars, combo and remaining lives. This helps us find stages that are too hard and make the game fair.
 
-**Contact:** mo847313@gmail.com
+It is off until you accept the prompt in the Game, and you can turn it off at any time in Settings.
+It is linked only to a random install ID created on your device. It contains no name, email, advertising ID, location or contacts.
+Turning it off deletes the install ID and any unsent data on your device.
+The data is sent over an encrypted connection (HTTPS) and stored on Supabase servers. It is used only to improve the Game and is never sold or used for advertising.
+Advertising
+
+Ads are served by Google AdMob, which may collect device data such as your advertising ID, IP address, device model, operating system and ad interactions. In the EEA, UK and Switzerland you are asked for consent before personalized ads are shown. You can reset or delete your advertising ID in your device settings. See Google's privacy policy and how Google uses data from apps.
+
+Purchases
+
+Subscriptions are processed by the Apple App Store or Google Play. We never see your payment details.
+
+Game Center / Google Play Games
+
+If you are signed in, your scores and achievements are shared with Game Center (iOS) or Google Play Games (Android) under their own privacy policies.
+
+Notifications
+
+If you allow notifications, the Game schedules local reminders on your device. No data is sent for this.
+
+Children
+
+The Game is not directed at children under 13 and does not knowingly collect their personal data.
+
+Changes
+
+Updates to this policy are posted on this page.
+
+Contact
+
+mo847313@gmail.com
