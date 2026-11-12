@@ -1,4 +1,4 @@
-Tile by Tile — Privacy Policy
+#Tile by Tile — Privacy Policy
 
 Last updated: November 12, 2026 · Publisher: South Copper
 
